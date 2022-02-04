@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m @gatak
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning Golang
 
 <!--
 **gatak/gatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
