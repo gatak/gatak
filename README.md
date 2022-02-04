@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gatak
-- 👀 I’m interested in Golang & JS
-- 🌱 I’m currently learning Golang & JS
+- 👀 I’m interested in Go & JS
+- 🌱 I’m currently learning Go & JS
 
 <!--
 **gatak/gatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
